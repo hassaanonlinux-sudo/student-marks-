@@ -46,7 +46,7 @@ html {
   box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
 }
 .result-card{
-   max-height: 60%;
+   max-height: 76%;
 }
 
 .title {
@@ -219,7 +219,8 @@ html {
     padding: 20px;
   }
   .result-card {
-    width: 60%;
+    width: 70%;
+    height:auto;
     margin-top: 6rem;
   }
 }
